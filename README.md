@@ -1,8 +1,3 @@
-# React + Vite
+Welcome to the Nike Brand Page, where we celebrate the excellence of one of the world's leading sportswear brands. Our page is designed to highlight Nike's commitment to quality, performance, and innovation. At the heart of this page, you'll find a featured product - a pair of Nike's renowned running shoes, meticulously crafted to deliver unparalleled comfort and support. The clean, modern layout ensures a seamless browsing experience, with easy navigation through sections like Menu, Location, About, and Contact. Prominent call-to-action buttons invite you to explore further, whether you want to shop now or browse through various categories. Additionally, we've provided links to trusted marketplaces like Amazon and Flipkart, making it convenient for you to purchase your favorite Nike products. Experience the best in sportswear with Nike - because your feet deserve the best.
+![image](https://github.com/user-attachments/assets/6177aa4f-acbb-43e7-af36-99a40fad98dc)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
